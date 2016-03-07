@@ -7,7 +7,7 @@ The best practice is to then have all the developers use Composer to install
 the dependencies. Similarly, the build server, CI, deployment tools etc should
 be adapted to run Composer as part of their project bootstrapping.
 
-While it can be tempting to commit it in some environment, it leads to a few
+While it can be attempting to commit it in some environment, it leads to a few
 problems:
 
 - Large VCS repository size and diffs when you update code.
